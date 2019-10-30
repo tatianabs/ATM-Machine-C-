@@ -1,0 +1,35 @@
+﻿<Window x:Class="ATM_Simulator.WindowAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ATM_Simulator"
+        mc:Ignorable="d"
+        Title="WindowAdmin" Height="542.459" Width="510.51" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <Grid x:Name="Win_Admin">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FF0B4487" Offset="1"/>
+                <GradientStop Color="White"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Image x:Name="image_atm" Margin="357,418,0,0" Source ="atm.png" Stretch="Fill" Opacity="0.4">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Label x:Name="lbl_welcome_admin" Content="Welcome Korben to the ATM system!" HorizontalAlignment="Left" Margin="121,22,0,0" VerticalAlignment="Top" Width="279"/>
+        <Button x:Name="btn_pay_interest" Content="Pay Interest" HorizontalAlignment="Left" Margin="26,146,0,0" VerticalAlignment="Top" Width="129" Height="40" Click="btn_pay_interest_Click"/>
+        <Button x:Name="btn_Refill_atm" Content="Refill ATM $" HorizontalAlignment="Left" Margin="26,207,0,0" VerticalAlignment="Top" Width="129" Height="40" Click="btn_Refill_atm_Click"/>
+        <Button x:Name="btn_print_acc_report" Content="Print Accounts Report" HorizontalAlignment="Left" Margin="26,265,0,0" VerticalAlignment="Top" Width="129" Height="45" Click="btn_print_acc_report_Click"/>
+        <Button x:Name="btn_out_of_service" Content="ATM out of service" HorizontalAlignment="Left" Margin="26,332,0,0" VerticalAlignment="Top" Width="129" Height="44" Click="btn_out_of_service_Click"/>
+        <Image x:Name="atm_icon_800x600_png" Source="atm_icon_800x600.png" Stretch="Fill" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="137" Height="107"/>
+        <Label x:Name="lbl_bank_amount" Content="Bank Amount: " HorizontalAlignment="Left" FontSize="20" Margin="26,68,0,0" VerticalAlignment="Top"/>
+
+        <ScrollViewer HorizontalAlignment="Left" Height="230" Margin="172,146,0,0" VerticalAlignment="Top" Width="323">
+
+            <TextBlock x:Name="tb_all_accounts"  TextWrapping="Wrap" Text="Display all accounts with the print accounts report button"  />
+        </ScrollViewer>
+
+    </Grid>
+</Window>

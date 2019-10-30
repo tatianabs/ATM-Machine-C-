@@ -1,0 +1,70 @@
+﻿<Window x:Name="Win_Users" x:Class="ATM_Simulator.WindowUsers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ATM_Simulator"
+        mc:Ignorable="d"
+        Title="WindowUsers" Height="406" Width="703" ResizeMode="NoResize" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" Closing="Win_Users_Closing">
+    <Grid x:Name="grid_main">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FF0B4487" Offset="1"/>
+                <GradientStop Color="White"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Image x:Name="image_atm" Margin="543,239,0,0" Source ="atm.png" Stretch="Fill" Opacity="0.4">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <GroupBox x:Name="grbx_key_pad" Header="Key Pad" HorizontalAlignment="Left" Height="220" Margin="26,10,0,0" VerticalAlignment="Top" Width="189" Grid.RowSpan="2">
+            <Grid x:Name="grid_keypad">
+
+                <Button x:Name="btn_1" Content="1" Width="30" Height="30" Click="NumberClick" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,14,0,0"/>
+                <Button x:Name="btn_2" Content="2" Width="30" Height="30" Click="NumberClick" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="74,14,73,0"/>
+                <Button x:Name="btn_3" Content="3" Width="30" Height="30" Click="NumberClick" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="123,14,0,0"/>
+                <Button x:Name="btn_4" Content="4" Width="30" Height="30" Click="NumberClick" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,64,0,0"/>
+                <Button x:Name="btn_5" Content="5" Width="30" Height="30" Click="NumberClick" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="74,64,0,0"/>
+                <Button x:Name="btn_6" Content="6" Width="30" Height="30" Click="NumberClick" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="123,64,0,0"/>
+                <Button x:Name="btn_7" Content="7" Width="30" Height="30" Click="NumberClick" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,114,0,0"/>
+                <Button x:Name="btn_8" Content="8" Width="30" Height="30" Click="NumberClick" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="74,114,0,0"/>
+                <Button x:Name="btn_9" Content="9" Width="30" Height="30" Click="NumberClick" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="123,114,0,0"/>
+                <Button x:Name="btn_0" Content="0" Width="30" Height="30" Click="NumberClick" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="74,160,0,0"/>
+                <Button x:Name="btn_dot" Content="." Width="30" Height="30" Click="NumberClick" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="123,160,0,0"/>
+
+            </Grid>
+
+
+
+
+        </GroupBox>
+        <GroupBox x:Name="grbx_select_transaction" Header="Select Transaction :" HorizontalAlignment="Left" Height="88" Margin="291,23,0,0" VerticalAlignment="Top" Width="179" Grid.RowSpan="2">
+            <StackPanel>
+                <RadioButton x:Name="rdbtn_deposit" Content="Deposit" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Height="15" Width="72" IsChecked="True"/>
+                <RadioButton x:Name="rdbtn_withdrawal" Content="Withdrawal" Margin="10,0,0,0"/>
+                <RadioButton x:Name="rdbtn_pay_bill" Content="Pay Bill" Margin="10,0,0,0"/>
+                <RadioButton x:Name="rdbtn_transfer_funds" Content="Transfer Funds" Margin="10,0,0,0"/>
+            </StackPanel>
+
+        </GroupBox>
+        <GroupBox x:Name="grbx_select_account" Header="Select Account" HorizontalAlignment="Left" Height="92" Margin="291,138,0,0" VerticalAlignment="Top" Width="179" Grid.RowSpan="2">
+            <StackPanel>
+                <RadioButton x:Name="rdbtn_checking" Content="Checking" HorizontalAlignment="Left" Margin="12,11,0,0" VerticalAlignment="Top" IsChecked="True"/>
+                <RadioButton x:Name="rdbtn_savings" Content="Savings" Margin="12,0,10,0" Height="19"/>
+            </StackPanel>
+
+        </GroupBox>
+        <Button x:Name="btn_submit" Content="Submit" HorizontalAlignment="Left" Margin="291,239,0,0" VerticalAlignment="Top" Width="75" Height="20" Grid.RowSpan="2" Click="btn_submit_Click" />
+        <Button x:Name="btn_close" Content="Close" HorizontalAlignment="Left" Margin="393,239,0,0" VerticalAlignment="Top" Width="77" Height="20" Grid.RowSpan="2" Click="btn_close_Click"/>
+        <Button x:Name="btn_clear" Content="Clear" HorizontalAlignment="Left" Margin="348,275,0,0" VerticalAlignment="Top" Width="75" FontSize="16" Click="btn_clear_Click"/>
+        <TextBox x:Name="tb_amount_keypad" HorizontalContentAlignment="Right" Text="0.00" IsEnabled="False" HorizontalAlignment="Left" Height="20" Margin="26,239,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189" Grid.RowSpan="2"/>
+        <Label x:Name="lbl_welcome" Content="Welcome" HorizontalAlignment="Left" Margin="475,23,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="170" Height="25"/>
+        <Label x:Name="lbl_check_display" Content="Checking:" HorizontalAlignment="Left" Margin="475,53,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="63" Height="26"/>
+        <TextBox x:Name="tb_check_display" HorizontalAlignment="Left" Height="23" Margin="543,53,0,0" Grid.RowSpan="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="129"  IsEnabled="False"/>
+        <Label x:Name="lbl_sav_display" Content="Savings:" HorizontalAlignment="Left" Margin="475,84,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="54"/>
+        <TextBox x:Name="tb_sav_display" HorizontalAlignment="Left" Height="26" Margin="543,84,0,0" Grid.RowSpan="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="129" IsEnabled="False"/>
+        <Image x:Name="atm_icon_800x600_png" Margin="598,275,0,0" Source="atm_icon_800x600.png" Stretch="Fill"/>
+    </Grid>
+</Window>
+    

@@ -1,0 +1,278 @@
+c:\users\633-088518\documents\visual studio 2015\Projects\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+c:\users\633-088518\documents\visual studio 2015\Projects\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.g.cs
+c:\users\633-088518\documents\visual studio 2015\Projects\ATM Simulator\ATM Simulator\obj\Debug\App.g.cs
+c:\users\633-088518\documents\visual studio 2015\Projects\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+c:\users\633-088518\documents\visual studio 2015\Projects\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+C:\Users\633-088518\Documents\Visual Studio 2015\Projects\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe
+C:\Users\633-088518\Documents\Visual Studio 2015\Projects\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.pdb
+C:\Users\633-088518\Documents\Visual Studio 2015\Projects\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.baml
+C:\Users\633-088518\Documents\Visual Studio 2015\Projects\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+C:\Users\633-088518\Documents\Visual Studio 2015\Projects\ATM Simulator\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+C:\Users\633-088518\Documents\Visual Studio 2015\Projects\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.Cache
+C:\Users\633-088518\Documents\Visual Studio 2015\Projects\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.exe
+C:\Users\633-088518\Documents\Visual Studio 2015\Projects\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.pdb
+F:\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+F:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.exe
+F:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.pdb
+F:\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.g.cs
+F:\ATM Simulator\ATM Simulator\obj\Debug\App.g.cs
+F:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+F:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+F:\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe
+F:\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.pdb
+F:\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.baml
+F:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+F:\ATM Simulator\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+F:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.Cache
+F:\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+F:\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.g.cs
+F:\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.baml
+F:\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.baml
+H:\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+H:\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe
+H:\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.pdb
+H:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csprojAssemblyReference.cache
+H:\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.g.cs
+H:\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+H:\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.g.cs
+H:\ATM Simulator\ATM Simulator\obj\Debug\App.g.cs
+H:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+H:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+H:\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.baml
+H:\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.baml
+H:\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.baml
+H:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+H:\ATM Simulator\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+H:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.cache
+H:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+H:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.exe
+H:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.pdb
+F:\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csprojResolveAssemblyReference.cache
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.pdb
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csprojResolveAssemblyReference.cache
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.g.cs
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\App.g.cs
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.baml
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.baml
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.baml
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.cache
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.exe
+C:\Users\patri\Downloads\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.pdb
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.pdb
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csprojAssemblyReference.cache
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.g.cs
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\App.g.cs
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.baml
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.baml
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.baml
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.cache
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.exe
+C:\Users\Tati\Desktop\ATM Simulator\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.pdb
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.pdb
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csprojAssemblyReference.cache
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.g.cs
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\App.g.cs
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.baml
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.baml
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.baml
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.cache
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.exe
+C:\Users\Tati\Desktop\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.pdb
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.g.cs
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\App.g.cs
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.exe
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.pdb
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.pdb
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\MainWindow.baml
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\WindowAdmin.baml
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\WindowUsers.baml
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\ATM\ATM Simulator machine\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.exe
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.pdb
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.csprojAssemblyReference.cache
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowUsers.g.cs
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\App.g.cs
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\MainWindow.baml
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowAdmin.baml
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowUsers.baml
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.cache
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.exe
+C:\Users\Tati\Desktop\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.pdb
+G:\ATM_Tati\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.exe
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.pdb
+G:\ATM_Tati\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.exe
+G:\ATM_Tati\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.pdb
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\MainWindow.g.cs
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowUsers.g.cs
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\App.g.cs
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\MainWindow.baml
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowAdmin.baml
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowUsers.baml
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.Cache
+G:\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.csprojResolveAssemblyReference.cache
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.exe
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.pdb
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.csprojAssemblyReference.cache
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowUsers.g.cs
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\App.g.cs
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\MainWindow.baml
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowAdmin.baml
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\WindowUsers.baml
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.cache
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.exe
+C:\Users\TV\Documents\ATM_Tati\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.pdb
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.exe
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\bin\Debug\ATM Simulator.pdb
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.csprojAssemblyReference.cache
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\WindowUsers.g.cs
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\App.g.cs
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\MainWindow.baml
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\WindowAdmin.baml
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\WindowUsers.baml
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.cache
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.exe
+C:\Users\Tati\Desktop\ATM_Tati\ATM Simulator\obj\Debug\ATM Simulator.pdb
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.exe
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.pdb
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.csprojAssemblyReference.cache
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\WindowUsers.g.cs
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\App.g.cs
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\MainWindow.baml
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\WindowAdmin.baml
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\WindowUsers.baml
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.cache
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.exe
+C:\Users\Tati\Desktop\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.pdb
+F:\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+F:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.exe
+F:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.pdb
+F:\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.exe
+F:\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.pdb
+F:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.csprojResolveAssemblyReference.cache
+F:\ATM-TATI\ATM Simulator\obj\Debug\MainWindow.g.cs
+F:\ATM-TATI\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+F:\ATM-TATI\ATM Simulator\obj\Debug\WindowUsers.g.cs
+F:\ATM-TATI\ATM Simulator\obj\Debug\App.g.cs
+F:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+F:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+F:\ATM-TATI\ATM Simulator\obj\Debug\MainWindow.baml
+F:\ATM-TATI\ATM Simulator\obj\Debug\WindowAdmin.baml
+F:\ATM-TATI\ATM Simulator\obj\Debug\WindowUsers.baml
+F:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+F:\ATM-TATI\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+F:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.Cache
+H:\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+H:\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.exe
+H:\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.pdb
+H:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.csprojAssemblyReference.cache
+H:\ATM-TATI\ATM Simulator\obj\Debug\MainWindow.g.cs
+H:\ATM-TATI\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+H:\ATM-TATI\ATM Simulator\obj\Debug\WindowUsers.g.cs
+H:\ATM-TATI\ATM Simulator\obj\Debug\App.g.cs
+H:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+H:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+H:\ATM-TATI\ATM Simulator\obj\Debug\MainWindow.baml
+H:\ATM-TATI\ATM Simulator\obj\Debug\WindowAdmin.baml
+H:\ATM-TATI\ATM Simulator\obj\Debug\WindowUsers.baml
+H:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+H:\ATM-TATI\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+H:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.cache
+H:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+H:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.exe
+H:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.pdb
+E:\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+E:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.exe
+E:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.pdb
+G:\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+G:\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.exe
+G:\ATM-TATI\ATM Simulator\bin\Debug\ATM Simulator.pdb
+G:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.csprojResolveAssemblyReference.cache
+G:\ATM-TATI\ATM Simulator\obj\Debug\MainWindow.g.cs
+G:\ATM-TATI\ATM Simulator\obj\Debug\WindowAdmin.g.cs
+G:\ATM-TATI\ATM Simulator\obj\Debug\WindowUsers.g.cs
+G:\ATM-TATI\ATM Simulator\obj\Debug\App.g.cs
+G:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.cache
+G:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator_MarkupCompile.lref
+G:\ATM-TATI\ATM Simulator\obj\Debug\MainWindow.baml
+G:\ATM-TATI\ATM Simulator\obj\Debug\WindowAdmin.baml
+G:\ATM-TATI\ATM Simulator\obj\Debug\WindowUsers.baml
+G:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.g.resources
+G:\ATM-TATI\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+G:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.Cache
+G:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.exe
+G:\ATM-TATI\ATM Simulator\obj\Debug\ATM Simulator.pdb
